@@ -1,0 +1,121 @@
+$theme-colors: (
+  "primary": #7cb4ee,
+);
+
+$body-text-align: null;
+$body-color: #0d1313;
+$body-bg: #f0f3f6;
+
+.cover {
+  background-image: url(../images/cover.001.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 200px 2000px 200px;
+  height: 240vh; // Ajusta la altura a tu preferencia
+  font-size: 30px;
+}
+
+.cover-2 {
+  background-image: url(../images/Kanye\ West\ -\ Jesus\ Is\ King.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 0px 150px 150px;
+  height: 350vh; // Ajusta la altura a tu preferencia
+  font-size: 50px;
+}
+
+.cover-3 {
+  background-image: url(../images/Kanye\ West\ -\ Jesus\ Is\ King.jpeg);
+  background-size: cover;
+  background-position: 0px 100px 0px;
+  background-repeat: no-repeat;
+  height: 250vh; // Ajusta la altura a tu preferencia
+  font-size: 30px;
+}
+
+.cover-4 {
+  background-image: url(../images/cover0004.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 0px 150px 150px;
+  height: 130vh; // Ajusta la altura a tu preferencia
+  font-size: 30px;
+}
+
+.cover-5 {
+  background-image: url(../images/cover0005.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position: 0px 150px 150px;
+  height: 150vh; // Ajusta la altura a tu preferencia
+  font-size: 30px;
+}
+.social-icon {
+  color: rgb(241, 241, 247);
+  background-color: rgb(58, 127, 237);
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.social-icon:hover {
+  color: rgb(11, 7, 7);
+  background-color: blue;
+}
+
+.instagram:hover {
+  background-color: #e1306c;
+}
+
+.facebook:hover {
+  background-color: #3b5998;
+}
+
+.whatsapp:hover {
+  background-color: #25d366;
+}
+.social-icon1 {
+  color: rgb(235, 235, 243);
+  background-color: rgb(81, 149, 250);
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.social-icon1:hover {
+  color: rgb(11, 7, 7);
+  background-color: blue;
+}
+
+.instagram:hover {
+  background-color: #e1306c;
+}
+
+.facebook:hover {
+  background-color: #3b5998;
+}
+
+.whatsapp:hover {
+  background-color: #25d366;
+}
+.text-welcome {
+  color: #f0f3f6;
+}
+.col-md-6 {
+  font-size: 30px;
+}
+.text-color2 {
+  color: #030406;
+}
+.col-sm-6 {
+  font-size: 50%;
+}
+#text-one {
+  font-size: 30px;
+  color: #f0f3f6;
+}
+@import "../node_modules/bootstrap/scss/bootstrap";

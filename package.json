@@ -1,0 +1,16 @@
+{
+  "name": "preentrega3joseperezmarin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.0"
+  }
+}
